@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @whitebookkk
+- I just a college student.I am not good at English but I'll be better than now.
+- This is my first account in Github.In there I can learn some knoledge for everyone.
+- I will share my learn experience in c language from this day forwords.Welcome evreyone to point out my mistakes.
